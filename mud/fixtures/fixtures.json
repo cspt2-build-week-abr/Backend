@@ -1,0 +1,43 @@
+[
+    {
+        "model": "mud.Pokemon",
+        "pk": 1,
+        "fields": {
+            "name": "Charizard",
+            "catchChance": ".02",
+            "spawnChance": ".5"
+        }
+    },
+    {
+        "model": "mud.Pokeballs",
+        "pk": 1,
+        "fields": {
+            "name": "Pokeball",
+            "catchRate": ".001"
+        }
+    },
+    {
+        "model": "mud.Pokeballs",
+        "pk": 2,
+        "fields": {
+            "name": "Greatball",
+            "catchRate": ".0015"
+        }
+    },
+    {
+        "model": "mud.Pokeballs",
+        "pk": 3,
+        "fields": {
+            "name": "Ultraball",
+            "catchRate": ".002"
+        }
+    },
+    {
+        "model": "mud.Pokeballs",
+        "pk": 4,
+        "fields": {
+            "name": "Masterball",
+            "catchRate": ".255"
+        }
+    }
+]
