@@ -20,10 +20,10 @@ class Users(models.Model):
 class Pokemon(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
     name = models.CharField(max_length=64, unique=True, blank=True)
-    catchChance = models.DecimalField(max_digits=3, decimal_places=1, blank=True)
-    spawnChance = models.DecimalField(max_digits=3, decimal_places=1, blank=True)
+    catchChance = models.DecimalField(max_digits=3, decimal_places=2, blank=True)
+    spawnChance = models.DecimalField(max_digits=3, decimal_places=2, blank=True)
 
 class Pokeballs(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
     name = models.CharField(max_length=64, unique=True, blank=True)
-    catchRate = models.DecimalField(max_digits=3, decimal_places=1, blank=True)
+    catchRate = models.DecimalField(max_digits=4, decimal_places=4, blank=True)
