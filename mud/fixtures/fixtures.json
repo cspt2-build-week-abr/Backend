@@ -56,7 +56,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 3,
-        {
         "fields": {
             "name": "Enusaurvay",
             "catchChance": ".6922",
@@ -292,7 +291,7 @@
         "model": "mud.Pokemon",
         "pk": 29,
         "fields": {
-            "name": "Idorannay",
+            "name": "Idorannaya",
             "catchChance": ".5908",
             "spawnChance": ".8348"
         }
@@ -309,7 +308,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 31,
-        {
         "fields": {
             "name": "Idoqueennay",
             "catchChance": ".583",
@@ -319,7 +317,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 32,
-        {
         "fields": {
             "name": "Idorannay",
             "catchChance": ".5791",
@@ -329,7 +326,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 33,
-        {
         "fields": {
             "name": "Idorinonay",
             "catchChance": ".5752",
@@ -339,7 +335,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 34,
-        {
         "fields": {
             "name": "Idokingnay",
             "catchChance": ".5713",
@@ -349,7 +344,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 35,
-        {
         "fields": {
             "name": "Efairyclay",
             "catchChance": ".5674",
@@ -359,7 +353,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 36,
-        {
         "fields": {
             "name": "Efableclay",
             "catchChance": ".5635",
@@ -369,7 +362,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 37,
-        {
         "fields": {
             "name": "Ulpixvay",
             "catchChance": ".5596",
@@ -379,7 +371,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 38,
-        {
         "fields": {
             "name": "Inetalesnay",
             "catchChance": ".5557",
@@ -389,7 +380,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 39,
-        {
         "fields": {
             "name": "Igglypuffjay",
             "catchChance": ".5518",
@@ -399,7 +389,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 40,
-        {
         "fields": {
             "name": "Igglytuffway",
             "catchChance": ".5479",
@@ -409,7 +398,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 41,
-        {
         "fields": {
             "name": "Ubatzay",
             "catchChance": ".544",
@@ -419,7 +407,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 42,
-        {
         "fields": {
             "name": "Olbatgay",
             "catchChance": ".5401",
@@ -429,7 +416,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 43,
-        {
         "fields": {
             "name": "Oddishway",
             "catchChance": ".5362",
@@ -439,7 +425,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 44,
-        {
         "fields": {
             "name": "Oomglay",
             "catchChance": ".5323",
@@ -449,7 +434,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 45,
-        {
         "fields": {
             "name": "Ileplumevay",
             "catchChance": ".5284",
@@ -459,7 +443,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 46,
-        {
         "fields": {
             "name": "Araspay",
             "catchChance": ".5245",
@@ -469,7 +452,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 47,
-        {
         "fields": {
             "name": "Arasectpay",
             "catchChance": ".5206",
@@ -479,7 +461,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 48,
-        {
         "fields": {
             "name": "Enonatvay",
             "catchChance": ".5167",
@@ -489,7 +470,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 49,
-        {
         "fields": {
             "name": "Enomothvay",
             "catchChance": ".5128",
@@ -499,7 +479,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 50,
-        {
         "fields": {
             "name": "Iglettday",
             "catchChance": ".5089",
@@ -509,7 +488,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 51,
-        {
         "fields": {
             "name": "Ugtrioday",
             "catchChance": ".505",
@@ -519,7 +497,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 52,
-        {
         "fields": {
             "name": "Eowthmay",
             "catchChance": ".5011",
@@ -529,7 +506,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 53,
-        {
         "fields": {
             "name": "Ersianpay",
             "catchChance": ".4972",
@@ -539,7 +515,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 54,
-        {
         "fields": {
             "name": "Yduckpsay",
             "catchChance": ".4933",
@@ -549,7 +524,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 55,
-        {
         "fields": {
             "name": "Olduckgay",
             "catchChance": ".4894",
@@ -559,7 +533,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 56,
-        {
         "fields": {
             "name": "Ankeymay",
             "catchChance": ".4855",
@@ -569,7 +542,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 57,
-        {
         "fields": {
             "name": "Imeapepray",
             "catchChance": ".4816",
@@ -579,7 +551,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 58,
-        {
         "fields": {
             "name": "Owlithegray",
             "catchChance": ".4777",
@@ -589,7 +560,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 59,
-        {
         "fields": {
             "name": "Arcanineway",
             "catchChance": ".4738",
@@ -599,7 +569,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 60,
-        {
         "fields": {
             "name": "Oliwagpay",
             "catchChance": ".4699",
@@ -609,7 +578,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 61,
-        {
         "fields": {
             "name": "Oliwhirlpay",
             "catchChance": ".466",
@@ -619,7 +587,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 62,
-        {
         "fields": {
             "name": "Oliwrathpay",
             "catchChance": ".4621",
@@ -629,7 +596,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 63,
-        {
         "fields": {
             "name": "Abraway",
             "catchChance": ".4582",
@@ -639,7 +605,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 64,
-        {
         "fields": {
             "name": "Adabrakay",
             "catchChance": ".4543",
@@ -649,7 +614,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 65,
-        {
         "fields": {
             "name": "Alakazamway",
             "catchChance": ".4504",
@@ -659,7 +623,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 66,
-        {
         "fields": {
             "name": "Achopmay",
             "catchChance": ".4465",
@@ -669,7 +632,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 67,
-        {
         "fields": {
             "name": "Achokemay",
             "catchChance": ".4426",
@@ -679,7 +641,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 68,
-        {
         "fields": {
             "name": "Achampmay",
             "catchChance": ".4387",
@@ -689,7 +650,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 69,
-        {
         "fields": {
             "name": "Ellsproutbay",
             "catchChance": ".4348",
@@ -699,7 +659,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 70,
-        {
         "fields": {
             "name": "Eepinbellway",
             "catchChance": ".4309",
@@ -709,7 +668,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 71,
-        {
         "fields": {
             "name": "Ictreebelvay",
             "catchChance": ".427",
@@ -719,7 +677,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 72,
-        {
         "fields": {
             "name": "Entacooltay",
             "catchChance": ".4231",
@@ -729,7 +686,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 73,
-        {
         "fields": {
             "name": "Entacrueltay",
             "catchChance": ".4192",
@@ -739,7 +695,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 74,
-        {
         "fields": {
             "name": "Eodudegay",
             "catchChance": ".4153",
@@ -749,7 +704,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 75,
-        {
         "fields": {
             "name": "Avelergray",
             "catchChance": ".4114",
@@ -759,7 +713,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 76,
-        {
         "fields": {
             "name": "Olemgay",
             "catchChance": ".4075",
@@ -769,7 +722,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 77,
-        {
         "fields": {
             "name": "Onytapay",
             "catchChance": ".4036",
@@ -779,7 +731,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 78,
-        {
         "fields": {
             "name": "Apidashray",
             "catchChance": ".3997",
@@ -789,7 +740,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 79,
-        {
         "fields": {
             "name": "Owpokeslay",
             "catchChance": ".3958",
@@ -799,7 +749,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 80,
-        {
         "fields": {
             "name": "Owbroslay",
             "catchChance": ".3919",
@@ -809,7 +758,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 81,
-        {
         "fields": {
             "name": "Agnemitemay",
             "catchChance": ".388",
@@ -819,7 +767,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 82,
-        {
         "fields": {
             "name": "Agnetonmay",
             "catchChance": ".3841",
@@ -829,7 +776,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 83,
-        {
         "fields": {
             "name": "Arfetch",
             "catchChance": ".3802",
@@ -839,7 +785,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 84,
-        {
         "fields": {
             "name": "Oduoday",
             "catchChance": ".3763",
@@ -849,7 +794,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 85,
-        {
         "fields": {
             "name": "Odrioday",
             "catchChance": ".3724",
@@ -859,7 +803,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 86,
-        {
         "fields": {
             "name": "Eelsay",
             "catchChance": ".3685",
@@ -869,7 +812,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 87,
-        {
         "fields": {
             "name": "Ewgongday",
             "catchChance": ".3646",
@@ -879,7 +821,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 88,
-        {
         "fields": {
             "name": "Imergray",
             "catchChance": ".3607",
@@ -889,7 +830,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 89,
-        {
         "fields": {
             "name": "Ukmay",
             "catchChance": ".3568",
@@ -899,7 +839,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 90,
-        {
         "fields": {
             "name": "Elldershay",
             "catchChance": ".3529",
@@ -909,7 +848,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 91,
-        {
         "fields": {
             "name": "Oysterclay",
             "catchChance": ".349",
@@ -919,7 +857,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 92,
-        {
         "fields": {
             "name": "Astlygay",
             "catchChance": ".3451",
@@ -929,7 +866,7 @@
      {
          "model": "mud.Pokemon",
          "pk": 93,
-         {
+
          "fields": {
              "name": "Aunterhay",
              "catchChance": ".3412",
@@ -939,7 +876,6 @@
      {
          "model": "mud.Pokemon",
          "pk": 94,
-         {
          "fields": {
              "name": "Engargay",
              "catchChance": ".3373",
@@ -949,7 +885,6 @@
      {
         "model": "mud.Pokemon",
         "pk": 95,
-        {
         "fields": {
             "name": "Onixway",
             "catchChance": ".3334",
@@ -959,7 +894,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 96,
-        {
         "fields": {
             "name": "Owzeedray",
             "catchChance": ".3295",
@@ -969,7 +903,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 97,
-        {
         "fields": {
             "name": "Ypnohay",
             "catchChance": ".3256",
@@ -979,7 +912,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 98,
-        {
         "fields": {
             "name": "Abbykray",
             "catchChance": ".3217",
@@ -989,7 +921,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 99,
-        {
         "fields": {
             "name": "Inglerkay",
             "catchChance": ".3178",
@@ -999,7 +930,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 100,
-        {
         "fields": {
             "name": "Oltorbvay",
             "catchChance": ".3139",
@@ -1009,7 +939,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 101,
-        {
         "fields": {
             "name": "Electrodeway",
             "catchChance": ".31",
@@ -1019,7 +948,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 102,
-        {
         "fields": {
             "name": "Exeggcuteway",
             "catchChance": ".3061",
@@ -1029,7 +957,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 103,
-        {
         "fields": {
             "name": "Exeggutorway",
             "catchChance": ".3022",
@@ -1039,7 +966,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 104,
-        {
         "fields": {
             "name": "Ubonecay",
             "catchChance": ".2983",
@@ -1049,7 +975,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 105,
-        {
         "fields": {
             "name": "Arowakmay",
             "catchChance": ".2944",
@@ -1059,7 +984,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 106,
-        {
         "fields": {
             "name": "Itmonleehay",
             "catchChance": ".2905",
@@ -1069,7 +993,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 107,
-        {
         "fields": {
             "name": "Itmonchanhay",
             "catchChance": ".2866",
@@ -1079,7 +1002,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 108,
-        {
         "fields": {
             "name": "Ickitunglay",
             "catchChance": ".2827",
@@ -1089,7 +1011,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 109,
-        {
         "fields": {
             "name": "Offingkay",
             "catchChance": ".2788",
@@ -1099,7 +1020,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 110,
-        {
         "fields": {
             "name": "Eezingway",
             "catchChance": ".2749",
@@ -1109,7 +1029,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 111,
-        {
         "fields": {
             "name": "Yhornrhay",
             "catchChance": ".271",
@@ -1119,7 +1038,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 112,
-        {
         "fields": {
             "name": "Ydonrhay",
             "catchChance": ".2671",
@@ -1129,7 +1047,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 113,
-        {
         "fields": {
             "name": "Anseychay",
             "catchChance": ".2632",
@@ -1139,7 +1056,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 114,
-        {
         "fields": {
             "name": "Angelatay",
             "catchChance": ".2593",
@@ -1149,7 +1065,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 115,
-        {
         "fields": {
             "name": "Angaskhankay",
             "catchChance": ".2554",
@@ -1159,7 +1074,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 116,
-        {
         "fields": {
             "name": "Orseahay",
             "catchChance": ".2515",
@@ -1169,7 +1083,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 117,
-        {
         "fields": {
             "name": "Eadrasay",
             "catchChance": ".2476",
@@ -1179,7 +1092,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 118,
-        {
         "fields": {
             "name": "Oldeengay",
             "catchChance": ".2437",
@@ -1189,7 +1101,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 119,
-        {
         "fields": {
             "name": "Eakingsay",
             "catchChance": ".2398",
@@ -1199,7 +1110,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 120,
-        {
         "fields": {
             "name": "Aryustay",
             "catchChance": ".2359",
@@ -1209,7 +1119,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 121,
-        {
         "fields": {
             "name": "Armiestay",
             "catchChance": ".232",
@@ -1219,7 +1128,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 122,
-        {
         "fields": {
             "name": "Imemay",
             "catchChance": ".2281",
@@ -1229,7 +1137,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 123,
-        {
         "fields": {
             "name": "Ytherscay",
             "catchChance": ".2242",
@@ -1239,7 +1146,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 124,
-        {
         "fields": {
             "name": "Ynxjay",
             "catchChance": ".2203",
@@ -1249,7 +1155,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 125,
-        {
         "fields": {
             "name": "Electabuzzway",
             "catchChance": ".2164",
@@ -1259,7 +1164,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 126,
-        {
         "fields": {
             "name": "Agmarmay",
             "catchChance": ".2125",
@@ -1269,7 +1173,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 127,
-        {
         "fields": {
             "name": "Insirpay",
             "catchChance": ".2086",
@@ -1279,7 +1182,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 128,
-        {
         "fields": {
             "name": "Aurostay",
             "catchChance": ".2047",
@@ -1289,7 +1191,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 129,
-        {
         "fields": {
             "name": "Agikarpmay",
             "catchChance": ".2008",
@@ -1299,7 +1200,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 130,
-        {
         "fields": {
             "name": "Yaradosgay",
             "catchChance": ".1969",
@@ -1309,7 +1209,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 131,
-        {
         "fields": {
             "name": "Apraslay",
             "catchChance": ".193",
@@ -1319,7 +1218,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 132,
-        {
         "fields": {
             "name": "Ittoday",
             "catchChance": ".1891",
@@ -1329,7 +1227,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 133,
-        {
         "fields": {
             "name": "Eeveeway",
             "catchChance": ".1852",
@@ -1339,7 +1236,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 134,
-        {
         "fields": {
             "name": "Aporeonvay",
             "catchChance": ".1813",
@@ -1349,7 +1245,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 135,
-        {
         "fields": {
             "name": "Olteonjay",
             "catchChance": ".1774",
@@ -1359,7 +1254,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 136,
-        {
         "fields": {
             "name": "Areonflay",
             "catchChance": ".1735",
@@ -1369,7 +1263,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 137,
-        {
         "fields": {
             "name": "Orygonpay",
             "catchChance": ".1696",
@@ -1379,7 +1272,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 138,
-        {
         "fields": {
             "name": "Omanyteway",
             "catchChance": ".1657",
@@ -1389,7 +1281,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 139,
-        {
         "fields": {
             "name": "Omastarway",
             "catchChance": ".1618",
@@ -1399,7 +1290,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 140,
-        {
         "fields": {
             "name": "Abutokay",
             "catchChance": ".1579",
@@ -1409,7 +1299,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 141,
-        {
         "fields": {
             "name": "Abutopskay",
             "catchChance": ".154",
@@ -1419,7 +1308,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 142,
-        {
         "fields": {
             "name": "Aerodactylway",
             "catchChance": ".1501",
@@ -1429,7 +1317,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 143,
-        {
         "fields": {
             "name": "Orlaxsnay",
             "catchChance": ".1462",
@@ -1439,7 +1326,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 144,
-        {
         "fields": {
             "name": "Articunoway",
             "catchChance": ".1423",
@@ -1449,7 +1335,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 145,
-        {
         "fields": {
             "name": "Apdoszay",
             "catchChance": ".1384",
@@ -1459,7 +1344,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 146,
-        {
         "fields": {
             "name": "Oltresmay",
             "catchChance": ".1345",
@@ -1469,7 +1353,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 147,
-        {
         "fields": {
             "name": "Atinidray",
             "catchChance": ".1306",
@@ -1479,7 +1362,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 148,
-        {
         "fields": {
             "name": "Agonairdray",
             "catchChance": ".1267",
@@ -1489,7 +1371,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 149,
-        {
         "fields": {
             "name": "Agonitedray",
             "catchChance": ".1228",
@@ -1499,7 +1380,6 @@
     {
         "model": "mud.Pokemon",
         "pk": 150,
-        {
         "fields": {
             "name": "Ewtwomay",
             "catchChance": ".1189",
@@ -1509,10 +1389,10 @@
     {
         "model": "mud.Pokemon",
         "pk": 151,
-        {
         "fields": {
             "name": "Ewmay",
             "catchChance": ".115",
             "spawnChance": ".1032"
         }
     }
+]

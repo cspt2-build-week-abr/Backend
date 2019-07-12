@@ -4,27 +4,28 @@ from uuid import uuid4
 
 class Areas(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
-    name = models.CharField(max_length=50, blank=True)
-    description = models.CharField(max_length=64, blank=True)
-    pokeballs = models.CharField(max_length=128, blank=True)
-    pokemon = models.CharField(max_length=128, blank=True)
-    adjacents = models.CharField(max_length=4, blank=True)
-    players = models.Textfield(blank=True)
+    name = models.CharField(max_length=50, blank=True, null=True)
+    description = models.CharField(max_length=64, blank=True, null=True)
+    pokeballs = models.CharField(max_length=128, blank=True, null=True)
+    pokemon = models.CharField(max_length=128, blank=True, null=True)
+    adjacents = models.CharField(max_length=4, blank=True, null=True)
+    players = models.TextField(blank=True, null=True)
 
 class Users(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
-    username = models.CharField(max_length=50, unique=True, blank=True)
-    token = models.CharField(max_length=248, unique=True, blank=True)
-    items = models.CharField(max_length=64, blank=True)
+    username = models.CharField(max_length=50, unique=True, blank=True, null=True)
+    token = models.CharField(max_length=248, unique=True, blank=True, null=True)
+    items = models.CharField(max_length=64, blank=True, null=True)
     area_id = models.IntegerField()
 
 class Pokemon(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
-    name = models.CharField(max_length=64, unique=True, blank=True)
-    catchChance = models.DecimalField(max_digits=3, decimal_places=2, blank=True)
-    spawnChance = models.DecimalField(max_digits=3, decimal_places=2, blank=True)
+    name = models.CharField(max_length=64, unique=True, blank=True, null=True)
+    catchChance = models.DecimalField(max_digits=5, decimal_places=4, blank=True, null=True)
+    spawnChance = models.DecimalField(max_digits=5, decimal_places=4, blank=True, null=True)
 
 class Pokeballs(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
-    name = models.CharField(max_length=64, unique=True, blank=True)
-    catchRate = models.DecimalField(max_digits=4, decimal_places=4, blank=True)
+    name = models.CharField(max_length=64, unique=True, blank=True, null=True)
+    catchRate = models.DecimalField(max_digits=5, decimal_places=4, blank=True, null=True)
+    spawnChance = models.DecimalField(max_digits=5, decimal_places=4, blank=True, null=True)
