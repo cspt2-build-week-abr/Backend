@@ -9,6 +9,7 @@ class Areas(models.Model):
     pokeballs = models.CharField(max_length=128, blank=True)
     pokemon = models.CharField(max_length=128, blank=True)
     adjacents = models.CharField(max_length=4, blank=True)
+    players = models.Textfield(blank=True)
 
 class Users(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
