@@ -9,6 +9,17 @@ class PokemonType(DjangoObjectType):
         model = Pokemon
         interfaces = (graphene.relay.Node,)
 
-    class Query(graphene.ObjectType):
+class Query(graphene.ObjectType):
 
-        pokemon = graphene.List(PokemonType)
+    all_pokemon = graphene.List(PokemonType)
+    pokemon = graphene.Field(pokemonType, id=graphene.Int())
+
+    def resolve_all_pokemon(self, info):
+        return Pokemon.objects.all()
+    
+    def resolve_pokemon(self, info, **kwargs):
+        id = kwargs.get('id')
+        return Pokemon.objects.get(pk=id)
+
+
+schema = graphene.Schema(query=Query)
