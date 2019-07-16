@@ -1399,6 +1399,8 @@
     "pk": 1,
     "fields": {
       "name": "Back Yard",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':1,'s':3,'e':,'w':7}",
@@ -1407,9 +1409,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 2,
     "fields": {
       "name": "Kanto",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':2,'s':0,'e':17,'w':68}",
@@ -1418,9 +1422,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 3,
     "fields": {
       "name": "Johto",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':5,'s':1,'e':18,'w':69}",
@@ -1429,9 +1435,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 4,
     "fields": {
       "name": "Hoenn",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':3,'s':4,'e':,'w':44}",
@@ -1440,9 +1448,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 5,
     "fields": {
       "name": "Sinnoh",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':3,'s':6,'e':,'w':45}",
@@ -1451,9 +1461,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 6,
     "fields": {
       "name": "Unova",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':77,'s':2,'e':,'w':}",
@@ -1462,9 +1474,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 7,
     "fields": {
       "name": "Kalos",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':4,'s':,'e':,'w':}",
@@ -1473,9 +1487,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 8,
     "fields": {
       "name": "Alola",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':0,'w':46}",
@@ -1484,9 +1500,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 9,
     "fields": {
       "name": "Galar",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':17,'s':,'e':,'w':}",
@@ -1495,9 +1513,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 10,
     "fields": {
       "name": "Pewter City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':20,'s':30,'e':,'w':}",
@@ -1506,9 +1526,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 11,
     "fields": {
       "name": "Cerulean City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':22,'s':32,'e':,'w':}",
@@ -1517,9 +1539,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 12,
     "fields": {
       "name": "Vermilion City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':12,'w':}",
@@ -1528,9 +1552,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 13,
     "fields": {
       "name": "Celadon City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':13,'w':11}",
@@ -1539,9 +1565,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 14,
     "fields": {
       "name": "Fuschia City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':14,'w':12}",
@@ -1550,9 +1578,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 15,
     "fields": {
       "name": "Saffron City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':15,'w':13}",
@@ -1561,9 +1591,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 16,
     "fields": {
       "name": "Cinnabar City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':27,'s':42,'e':16,'w':14}",
@@ -1572,9 +1604,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 17,
     "fields": {
       "name": "Viridian City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':,'w':15}",
@@ -1583,9 +1617,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 18,
     "fields": {
       "name": "Violet City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':8,'e':20,'w':1}",
@@ -1594,9 +1630,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 19,
     "fields": {
       "name": "Azalea City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':19,'w':2}",
@@ -1605,9 +1643,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 20,
     "fields": {
       "name": "Goldenrod City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':21,'w':18}",
@@ -1616,9 +1656,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 21,
     "fields": {
       "name": "Ecruteak City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':9,'e':22,'w':17}",
@@ -1627,9 +1669,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 22,
     "fields": {
       "name": "Olivine City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':,'w':19}",
@@ -1638,9 +1682,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 23,
     "fields": {
       "name": "Cianwood City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':10,'e':23,'w':20}",
@@ -1649,9 +1695,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 24,
     "fields": {
       "name": "Mahogany Town",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':24,'w':22}",
@@ -1660,9 +1708,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 25,
     "fields": {
       "name": "Blackthorn City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':25,'w':23}",
@@ -1671,9 +1721,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 26,
     "fields": {
       "name": "Rustboro City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':26,'w':24}",
@@ -1682,9 +1734,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 27,
     "fields": {
       "name": "Dewford City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':27,'w':25}",
@@ -1693,9 +1747,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 28,
     "fields": {
       "name": "Mauville City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':15,'e':,'w':26}",
@@ -1704,9 +1760,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 29,
     "fields": {
       "name": "Lavaridge City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':29,'e':,'w':}",
@@ -1715,9 +1773,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 30,
     "fields": {
       "name": "Petalburg City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':28,'s':,'e':31,'w':}",
@@ -1726,9 +1786,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 31,
     "fields": {
       "name": "Fortree City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':9,'s':31,'e':,'w':}",
@@ -1737,9 +1799,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 32,
     "fields": {
       "name": "Mossdeep City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':30,'s':,'e':33,'w':29}",
@@ -1748,9 +1812,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 33,
     "fields": {
       "name": "Sootopolis City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':10,'s':,'e':34,'w':}",
@@ -1759,9 +1825,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 34,
     "fields": {
       "name": "Oreburgh City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':74,'e':,'w':31}",
@@ -1770,9 +1838,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 35,
     "fields": {
       "name": "Eterna City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':36,'w':32}",
@@ -1781,9 +1851,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 36,
     "fields": {
       "name": "Veilstone City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':37,'w':}",
@@ -1792,9 +1864,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 37,
     "fields": {
       "name": "Pastoria City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':38,'w':34}",
@@ -1803,9 +1877,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 38,
     "fields": {
       "name": "Hearthome City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':39,'w':35}",
@@ -1814,9 +1890,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 39,
     "fields": {
       "name": "Canalave City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':40,'w':36}",
@@ -1825,9 +1903,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 40,
     "fields": {
       "name": "Snowpoint City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':41,'w':37}",
@@ -1836,9 +1916,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 41,
     "fields": {
       "name": "Sunyshore City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':41,'e':,'w':38}",
@@ -1847,9 +1929,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 42,
     "fields": {
       "name": "Striaton City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':40,'s':,'e':,'w':39}",
@@ -1858,9 +1942,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 43,
     "fields": {
       "name": "Aspertia City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':15,'s':43,'e':,'w':}",
@@ -1869,9 +1955,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 44,
     "fields": {
       "name": "Nacrene City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':42,'s':,'e':,'w':}",
@@ -1880,9 +1968,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 45,
     "fields": {
       "name": "Virbank City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':3,'w':54}",
@@ -1891,9 +1981,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 46,
     "fields": {
       "name": "Castelia City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':4,'w':}",
@@ -1902,9 +1994,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 47,
     "fields": {
       "name": "Nimbasa City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':7,'w':47}",
@@ -1913,9 +2007,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 48,
     "fields": {
       "name": "Driftveil City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':55,'e':46,'w':}",
@@ -1924,9 +2020,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 49,
     "fields": {
       "name": "Mistralton City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':65,'s':56,'e':,'w':49}",
@@ -1935,9 +2033,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 50,
     "fields": {
       "name": "Icirrus City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':64,'s':57,'e':48,'w':50}",
@@ -1946,9 +2046,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 51,
     "fields": {
       "name": "Opelucid City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':49,'w':51}",
@@ -1957,9 +2059,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 52,
     "fields": {
       "name": "Humilau City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':50,'w':52}",
@@ -1968,9 +2072,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 53,
     "fields": {
       "name": "Santalune City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':61,'s':60,'e':51,'w':53}",
@@ -1979,9 +2085,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 54,
     "fields": {
       "name": "Cyllage City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':52,'w':85}",
@@ -1990,9 +2098,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 55,
     "fields": {
       "name": "Shalour City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':44,'w':55}",
@@ -2001,9 +2111,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 56,
     "fields": {
       "name": "Coumarine City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':47,'s':,'e':54,'w':}",
@@ -2012,9 +2124,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 57,
     "fields": {
       "name": "Lumiose City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':48,'s':,'e':,'w':}",
@@ -2023,9 +2137,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 58,
     "fields": {
       "name": "Laverre City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':49,'s':,'e':,'w':58}",
@@ -2034,9 +2150,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 59,
     "fields": {
       "name": "Anistar City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':57,'w':59}",
@@ -2045,9 +2163,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 60,
     "fields": {
       "name": "Snowbelle City",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':58,'w':60}",
@@ -2056,9 +2176,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 61,
     "fields": {
       "name": "Viridian Forest",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':52,'s':,'e':59,'w':}",
@@ -2067,9 +2189,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 62,
     "fields": {
       "name": "Mt. Moon",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':52,'e':62,'w':}",
@@ -2078,9 +2202,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 63,
     "fields": {
       "name": "Cerulean Cave",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':63,'w':61}",
@@ -2089,9 +2215,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 64,
     "fields": {
       "name": "Rock Tunnel",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':64,'w':62}",
@@ -2100,9 +2228,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 65,
     "fields": {
       "name": "Diglett's Cave",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':49,'e':,'w':63}",
@@ -2111,9 +2241,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 66,
     "fields": {
       "name": "Safari Zone",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':48,'e':66,'w':}",
@@ -2122,9 +2254,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 67,
     "fields": {
       "name": "Seafoam Islands",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':67,'w':65}",
@@ -2133,9 +2267,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 68,
     "fields": {
       "name": "Power Plant",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':68,'w':66}",
@@ -2144,9 +2280,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 69,
     "fields": {
       "name": "Victory Road",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':1,'w':67}",
@@ -2155,9 +2293,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 70,
     "fields": {
       "name": "Indigo Plateau",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':2,'w':70}",
@@ -2166,9 +2306,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 71,
     "fields": {
       "name": "Ruins of Alph",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':69,'w':71}",
@@ -2177,9 +2319,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 72,
     "fields": {
       "name": "Slowpoke Well",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':72,'s':,'e':70,'w':}",
@@ -2188,9 +2332,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 73,
     "fields": {
       "name": "Union Cave",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':73,'s':71,'e':,'w':}",
@@ -2199,9 +2345,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 74,
     "fields": {
       "name": "Ilex Forest",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':72,'e':,'w':92}",
@@ -2210,9 +2358,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 75,
     "fields": {
       "name": "Radio Tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':33,'s':75,'e':,'w':}",
@@ -2221,9 +2371,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 76,
     "fields": {
       "name": "National Park",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':74,'s':76,'e':,'w':}",
@@ -2232,9 +2384,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 77,
     "fields": {
       "name": "Tin Tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':75,'s':,'e':,'w':}",
@@ -2243,9 +2397,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 78,
     "fields": {
       "name": "Bell Tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':78,'s':5,'e':,'w':}",
@@ -2254,9 +2410,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 79,
     "fields": {
       "name": "Burned Tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':77,'e':79,'w':}",
@@ -2265,9 +2423,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 80,
     "fields": {
       "name": "Sprout Tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':80,'w':78}",
@@ -2276,9 +2436,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 81,
     "fields": {
       "name": "Whilr tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':81,'e':83,'w':79}",
@@ -2287,9 +2449,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 82,
     "fields": {
       "name": "Dark Cave",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':80,'s':82,'e':,'w':}",
@@ -2298,9 +2462,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 83,
     "fields": {
       "name": "Mt.Mortar",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':81,'s':,'e':,'w':}",
@@ -2309,9 +2475,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 84,
     "fields": {
       "name": "Lake of Rage",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':84,'w':80}",
@@ -2320,9 +2488,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 85,
     "fields": {
       "name": "Dragon's Den",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':,'w':83}",
@@ -2331,9 +2501,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 86,
     "fields": {
       "name": "Tohjo Falls",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':53,'w':86}",
@@ -2342,9 +2514,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 87,
     "fields": {
       "name": "Indigo Plateau",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':87,'s':,'e':85,'w':}",
@@ -2353,9 +2527,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 88,
     "fields": {
       "name": "Battle Frontier",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':88,'s':86,'e':,'w':}",
@@ -2364,9 +2540,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 89,
     "fields": {
       "name": "Mt. Silver",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':89,'s':87,'e':91,'w':90}",
@@ -2375,9 +2553,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 90,
     "fields": {
       "name": "Sinjoh Ruins",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':88,'e':,'w':}",
@@ -2386,9 +2566,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 91,
     "fields": {
       "name": "Petalburg Woods",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':88,'w':}",
@@ -2397,9 +2579,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 92,
     "fields": {
       "name": "Devon Corporation",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':,'w':88}",
@@ -2408,9 +2592,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 93,
     "fields": {
       "name": "Rusturf Tunnel",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':73,'w':93}",
@@ -2419,9 +2605,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 94,
     "fields": {
       "name": "Granite Cave",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':92,'w':94}",
@@ -2430,9 +2618,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 95,
     "fields": {
       "name": "Meteor Falls",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':95,'s':97,'e':93,'w':96}",
@@ -2441,9 +2631,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 96,
     "fields": {
       "name": "Mt. Pyre",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':94,'e':,'w':}",
@@ -2452,9 +2644,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 97,
     "fields": {
       "name": "Cave of Origin",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':,'e':94,'w':98}",
@@ -2463,9 +2657,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 98,
     "fields": {
       "name": "Hoenn Victory Road",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':94,'s':,'e':,'w':}",
@@ -2474,9 +2670,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 99,
     "fields": {
       "name": "Sky Pillar",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':100,'s':99,'e':96,'w':}",
@@ -2485,9 +2683,11 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
+    "pk": 100,
     "fields": {
       "name": "Battle Tower",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':98,'s':,'e':,'w':}",
@@ -2499,6 +2699,8 @@
     "pk": 1,
     "fields": {
       "name": "Southern Island",
+      "description": "",
+      "players": "[]",
       "pokeballs": "[]",
       "pokemon": "[]",
       "exits": "{'n':,'s':98,'e':,'w':}",
