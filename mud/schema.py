@@ -18,9 +18,9 @@ class AreaType(DjangoObjectType):
 class Query(graphene.ObjectType):
 
     all_pokemon = graphene.List(PokemonType)
-    pokemon = graphene.Field(pokemonType, id=graphene.Int())
+    pokemon = graphene.Field(PokemonType, id=graphene.Int())
     all_areas = graphene.List(AreaType)
-    area = graphene.Field(areaType, id=graphene.Int())
+    area = graphene.Field(AreaType, id=graphene.Int())
 
     def resolve_all_pokemon(self, info):
         return Pokemon.objects.all()
