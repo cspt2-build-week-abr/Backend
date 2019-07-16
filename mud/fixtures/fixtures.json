@@ -1,7 +1,6 @@
 [
   {
     "model": "mud.Pokeballs",
-    "pk": 1,
     "fields": {
       "name": "Okeballpay",
       "catchRate": ".001",
@@ -10,7 +9,6 @@
   },
   {
     "model": "mud.Pokeballs",
-    "pk": 2,
     "fields": {
       "name": "Eatballgray",
       "catchRate": ".0015",
@@ -19,7 +17,6 @@
   },
   {
     "model": "mud.Pokeballs",
-    "pk": 3,
     "fields": {
       "name": "Traballulay",
       "catchRate": ".002",
@@ -28,7 +25,6 @@
   },
   {
     "model": "mud.Pokeballs",
-    "pk": 4,
     "fields": {
       "name": "Asterballmay",
       "catchRate": ".255",
@@ -37,7 +33,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 1,
     "fields": {
       "name": "Ulbasaurbay",
       "catchChance": ".7",
@@ -46,7 +41,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 2,
     "fields": {
       "name": "Ivysaurway",
       "catchChance": ".6961",
@@ -55,7 +49,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 3,
     "fields": {
       "name": "Enusaurvay",
       "catchChance": ".6922",
@@ -64,7 +57,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 4,
     "fields": {
       "name": "Armanderchay",
       "catchChance": ".6883",
@@ -73,7 +65,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 5,
     "fields": {
       "name": "Armeleonchay",
       "catchChance": ".6844",
@@ -82,7 +73,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 6,
     "fields": {
       "name": "Arizardchay",
       "catchChance": ".6805",
@@ -91,7 +81,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 7,
     "fields": {
       "name": "Irtlesquay",
       "catchChance": ".6766",
@@ -100,7 +89,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 8,
     "fields": {
       "name": "Artortleway",
       "catchChance": ".6727",
@@ -109,7 +97,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 9,
     "fields": {
       "name": "Astoiseblay",
       "catchChance": ".6688",
@@ -118,7 +105,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 10,
     "fields": {
       "name": "Aterpiecay",
       "catchChance": ".6649",
@@ -127,7 +113,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 11,
     "fields": {
       "name": "Etapodmay",
       "catchChance": ".661",
@@ -136,7 +121,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 12,
     "fields": {
       "name": "Utterfreebay",
       "catchChance": ".6571",
@@ -145,7 +129,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 13,
     "fields": {
       "name": "Eedleway",
       "catchChance": ".6532",
@@ -154,7 +137,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 14,
     "fields": {
       "name": "Akunakay",
       "catchChance": ".6493",
@@ -163,7 +145,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 15,
     "fields": {
       "name": "Eedrillbay",
       "catchChance": ".6454",
@@ -172,7 +153,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 16,
     "fields": {
       "name": "Idgeypay",
       "catchChance": ".6415",
@@ -181,7 +161,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 17,
     "fields": {
       "name": "Idgeottopay",
       "catchChance": ".6376",
@@ -190,7 +169,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 18,
     "fields": {
       "name": "Idgeotpay",
       "catchChance": ".6337",
@@ -199,7 +177,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 19,
     "fields": {
       "name": "Attataray",
       "catchChance": ".6298",
@@ -208,7 +185,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 20,
     "fields": {
       "name": "Aticateray",
       "catchChance": ".6259",
@@ -217,7 +193,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 21,
     "fields": {
       "name": "Earowspay",
       "catchChance": ".622",
@@ -226,7 +201,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 22,
     "fields": {
       "name": "Earowfay",
       "catchChance": ".6181",
@@ -235,7 +209,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 23,
     "fields": {
       "name": "Ekansway",
       "catchChance": ".6142",
@@ -244,7 +217,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 24,
     "fields": {
       "name": "Arbokway",
       "catchChance": ".6103",
@@ -253,7 +225,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 25,
     "fields": {
       "name": "Ikachupay",
       "catchChance": ".6064",
@@ -262,7 +233,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 26,
     "fields": {
       "name": "Aichuray",
       "catchChance": ".6025",
@@ -271,7 +241,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 27,
     "fields": {
       "name": "Andshrewsay",
       "catchChance": ".5986",
@@ -280,7 +249,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 28,
     "fields": {
       "name": "Andslashsay",
       "catchChance": ".5947",
@@ -289,7 +257,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 29,
     "fields": {
       "name": "Idorannaya",
       "catchChance": ".5908",
@@ -298,7 +265,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 30,
     "fields": {
       "name": "Idorinanay",
       "catchChance": ".5869",
@@ -307,7 +273,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 31,
     "fields": {
       "name": "Idoqueennay",
       "catchChance": ".583",
@@ -316,7 +281,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 32,
     "fields": {
       "name": "Idorannay",
       "catchChance": ".5791",
@@ -325,7 +289,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 33,
     "fields": {
       "name": "Idorinonay",
       "catchChance": ".5752",
@@ -334,7 +297,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 34,
     "fields": {
       "name": "Idokingnay",
       "catchChance": ".5713",
@@ -343,7 +305,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 35,
     "fields": {
       "name": "Efairyclay",
       "catchChance": ".5674",
@@ -352,7 +313,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 36,
     "fields": {
       "name": "Efableclay",
       "catchChance": ".5635",
@@ -361,7 +321,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 37,
     "fields": {
       "name": "Ulpixvay",
       "catchChance": ".5596",
@@ -370,7 +329,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 38,
     "fields": {
       "name": "Inetalesnay",
       "catchChance": ".5557",
@@ -379,7 +337,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 39,
     "fields": {
       "name": "Igglypuffjay",
       "catchChance": ".5518",
@@ -388,7 +345,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 40,
     "fields": {
       "name": "Igglytuffway",
       "catchChance": ".5479",
@@ -397,7 +353,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 41,
     "fields": {
       "name": "Ubatzay",
       "catchChance": ".544",
@@ -406,7 +361,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 42,
     "fields": {
       "name": "Olbatgay",
       "catchChance": ".5401",
@@ -415,7 +369,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 43,
     "fields": {
       "name": "Oddishway",
       "catchChance": ".5362",
@@ -424,7 +377,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 44,
     "fields": {
       "name": "Oomglay",
       "catchChance": ".5323",
@@ -433,7 +385,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 45,
     "fields": {
       "name": "Ileplumevay",
       "catchChance": ".5284",
@@ -442,7 +393,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 46,
     "fields": {
       "name": "Araspay",
       "catchChance": ".5245",
@@ -451,7 +401,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 47,
     "fields": {
       "name": "Arasectpay",
       "catchChance": ".5206",
@@ -460,7 +409,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 48,
     "fields": {
       "name": "Enonatvay",
       "catchChance": ".5167",
@@ -469,7 +417,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 49,
     "fields": {
       "name": "Enomothvay",
       "catchChance": ".5128",
@@ -478,7 +425,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 50,
     "fields": {
       "name": "Iglettday",
       "catchChance": ".5089",
@@ -487,7 +433,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 51,
     "fields": {
       "name": "Ugtrioday",
       "catchChance": ".505",
@@ -496,7 +441,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 52,
     "fields": {
       "name": "Eowthmay",
       "catchChance": ".5011",
@@ -505,7 +449,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 53,
     "fields": {
       "name": "Ersianpay",
       "catchChance": ".4972",
@@ -514,7 +457,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 54,
     "fields": {
       "name": "Yduckpsay",
       "catchChance": ".4933",
@@ -523,7 +465,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 55,
     "fields": {
       "name": "Olduckgay",
       "catchChance": ".4894",
@@ -532,7 +473,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 56,
     "fields": {
       "name": "Ankeymay",
       "catchChance": ".4855",
@@ -541,7 +481,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 57,
     "fields": {
       "name": "Imeapepray",
       "catchChance": ".4816",
@@ -550,7 +489,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 58,
     "fields": {
       "name": "Owlithegray",
       "catchChance": ".4777",
@@ -559,7 +497,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 59,
     "fields": {
       "name": "Arcanineway",
       "catchChance": ".4738",
@@ -568,7 +505,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 60,
     "fields": {
       "name": "Oliwagpay",
       "catchChance": ".4699",
@@ -577,7 +513,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 61,
     "fields": {
       "name": "Oliwhirlpay",
       "catchChance": ".466",
@@ -586,7 +521,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 62,
     "fields": {
       "name": "Oliwrathpay",
       "catchChance": ".4621",
@@ -595,7 +529,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 63,
     "fields": {
       "name": "Abraway",
       "catchChance": ".4582",
@@ -604,7 +537,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 64,
     "fields": {
       "name": "Adabrakay",
       "catchChance": ".4543",
@@ -613,7 +545,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 65,
     "fields": {
       "name": "Alakazamway",
       "catchChance": ".4504",
@@ -622,7 +553,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 66,
     "fields": {
       "name": "Achopmay",
       "catchChance": ".4465",
@@ -631,7 +561,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 67,
     "fields": {
       "name": "Achokemay",
       "catchChance": ".4426",
@@ -640,7 +569,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 68,
     "fields": {
       "name": "Achampmay",
       "catchChance": ".4387",
@@ -649,7 +577,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 69,
     "fields": {
       "name": "Ellsproutbay",
       "catchChance": ".4348",
@@ -658,7 +585,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 70,
     "fields": {
       "name": "Eepinbellway",
       "catchChance": ".4309",
@@ -667,7 +593,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 71,
     "fields": {
       "name": "Ictreebelvay",
       "catchChance": ".427",
@@ -676,7 +601,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 72,
     "fields": {
       "name": "Entacooltay",
       "catchChance": ".4231",
@@ -685,7 +609,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 73,
     "fields": {
       "name": "Entacrueltay",
       "catchChance": ".4192",
@@ -694,7 +617,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 74,
     "fields": {
       "name": "Eodudegay",
       "catchChance": ".4153",
@@ -703,7 +625,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 75,
     "fields": {
       "name": "Avelergray",
       "catchChance": ".4114",
@@ -712,7 +633,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 76,
     "fields": {
       "name": "Olemgay",
       "catchChance": ".4075",
@@ -721,7 +641,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 77,
     "fields": {
       "name": "Onytapay",
       "catchChance": ".4036",
@@ -730,7 +649,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 78,
     "fields": {
       "name": "Apidashray",
       "catchChance": ".3997",
@@ -739,7 +657,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 79,
     "fields": {
       "name": "Owpokeslay",
       "catchChance": ".3958",
@@ -748,7 +665,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 80,
     "fields": {
       "name": "Owbroslay",
       "catchChance": ".3919",
@@ -757,7 +673,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 81,
     "fields": {
       "name": "Agnemitemay",
       "catchChance": ".388",
@@ -766,7 +681,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 82,
     "fields": {
       "name": "Agnetonmay",
       "catchChance": ".3841",
@@ -775,7 +689,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 83,
     "fields": {
       "name": "Arfetch",
       "catchChance": ".3802",
@@ -784,7 +697,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 84,
     "fields": {
       "name": "Oduoday",
       "catchChance": ".3763",
@@ -793,7 +705,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 85,
     "fields": {
       "name": "Odrioday",
       "catchChance": ".3724",
@@ -802,7 +713,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 86,
     "fields": {
       "name": "Eelsay",
       "catchChance": ".3685",
@@ -811,7 +721,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 87,
     "fields": {
       "name": "Ewgongday",
       "catchChance": ".3646",
@@ -820,7 +729,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 88,
     "fields": {
       "name": "Imergray",
       "catchChance": ".3607",
@@ -829,7 +737,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 89,
     "fields": {
       "name": "Ukmay",
       "catchChance": ".3568",
@@ -838,7 +745,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 90,
     "fields": {
       "name": "Elldershay",
       "catchChance": ".3529",
@@ -847,7 +753,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 91,
     "fields": {
       "name": "Oysterclay",
       "catchChance": ".349",
@@ -856,7 +761,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 92,
     "fields": {
       "name": "Astlygay",
       "catchChance": ".3451",
@@ -865,7 +769,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 93,
     "fields": {
       "name": "Aunterhay",
       "catchChance": ".3412",
@@ -874,7 +777,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 94,
     "fields": {
       "name": "Engargay",
       "catchChance": ".3373",
@@ -883,7 +785,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 95,
     "fields": {
       "name": "Onixway",
       "catchChance": ".3334",
@@ -892,7 +793,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 96,
     "fields": {
       "name": "Owzeedray",
       "catchChance": ".3295",
@@ -901,7 +801,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 97,
     "fields": {
       "name": "Ypnohay",
       "catchChance": ".3256",
@@ -910,7 +809,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 98,
     "fields": {
       "name": "Abbykray",
       "catchChance": ".3217",
@@ -919,7 +817,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 99,
     "fields": {
       "name": "Inglerkay",
       "catchChance": ".3178",
@@ -928,7 +825,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 100,
     "fields": {
       "name": "Oltorbvay",
       "catchChance": ".3139",
@@ -937,7 +833,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 101,
     "fields": {
       "name": "Electrodeway",
       "catchChance": ".31",
@@ -946,7 +841,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 102,
     "fields": {
       "name": "Exeggcuteway",
       "catchChance": ".3061",
@@ -955,7 +849,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 103,
     "fields": {
       "name": "Exeggutorway",
       "catchChance": ".3022",
@@ -964,7 +857,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 104,
     "fields": {
       "name": "Ubonecay",
       "catchChance": ".2983",
@@ -973,7 +865,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 105,
     "fields": {
       "name": "Arowakmay",
       "catchChance": ".2944",
@@ -982,7 +873,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 106,
     "fields": {
       "name": "Itmonleehay",
       "catchChance": ".2905",
@@ -991,7 +881,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 107,
     "fields": {
       "name": "Itmonchanhay",
       "catchChance": ".2866",
@@ -1000,7 +889,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 108,
     "fields": {
       "name": "Ickitunglay",
       "catchChance": ".2827",
@@ -1009,7 +897,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 109,
     "fields": {
       "name": "Offingkay",
       "catchChance": ".2788",
@@ -1018,7 +905,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 110,
     "fields": {
       "name": "Eezingway",
       "catchChance": ".2749",
@@ -1027,7 +913,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 111,
     "fields": {
       "name": "Yhornrhay",
       "catchChance": ".271",
@@ -1036,7 +921,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 112,
     "fields": {
       "name": "Ydonrhay",
       "catchChance": ".2671",
@@ -1045,7 +929,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 113,
     "fields": {
       "name": "Anseychay",
       "catchChance": ".2632",
@@ -1054,7 +937,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 114,
     "fields": {
       "name": "Angelatay",
       "catchChance": ".2593",
@@ -1063,7 +945,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 115,
     "fields": {
       "name": "Angaskhankay",
       "catchChance": ".2554",
@@ -1072,7 +953,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 116,
     "fields": {
       "name": "Orseahay",
       "catchChance": ".2515",
@@ -1081,7 +961,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 117,
     "fields": {
       "name": "Eadrasay",
       "catchChance": ".2476",
@@ -1090,7 +969,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 118,
     "fields": {
       "name": "Oldeengay",
       "catchChance": ".2437",
@@ -1099,7 +977,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 119,
     "fields": {
       "name": "Eakingsay",
       "catchChance": ".2398",
@@ -1108,7 +985,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 120,
     "fields": {
       "name": "Aryustay",
       "catchChance": ".2359",
@@ -1117,7 +993,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 121,
     "fields": {
       "name": "Armiestay",
       "catchChance": ".232",
@@ -1126,7 +1001,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 122,
     "fields": {
       "name": "Imemay",
       "catchChance": ".2281",
@@ -1135,7 +1009,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 123,
     "fields": {
       "name": "Ytherscay",
       "catchChance": ".2242",
@@ -1144,7 +1017,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 124,
     "fields": {
       "name": "Ynxjay",
       "catchChance": ".2203",
@@ -1153,7 +1025,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 125,
     "fields": {
       "name": "Electabuzzway",
       "catchChance": ".2164",
@@ -1162,7 +1033,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 126,
     "fields": {
       "name": "Agmarmay",
       "catchChance": ".2125",
@@ -1171,7 +1041,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 127,
     "fields": {
       "name": "Insirpay",
       "catchChance": ".2086",
@@ -1180,7 +1049,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 128,
     "fields": {
       "name": "Aurostay",
       "catchChance": ".2047",
@@ -1189,7 +1057,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 129,
     "fields": {
       "name": "Agikarpmay",
       "catchChance": ".2008",
@@ -1198,7 +1065,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 130,
     "fields": {
       "name": "Yaradosgay",
       "catchChance": ".1969",
@@ -1207,7 +1073,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 131,
     "fields": {
       "name": "Apraslay",
       "catchChance": ".193",
@@ -1216,7 +1081,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 132,
     "fields": {
       "name": "Ittoday",
       "catchChance": ".1891",
@@ -1225,7 +1089,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 133,
     "fields": {
       "name": "Eeveeway",
       "catchChance": ".1852",
@@ -1234,7 +1097,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 134,
     "fields": {
       "name": "Aporeonvay",
       "catchChance": ".1813",
@@ -1243,7 +1105,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 135,
     "fields": {
       "name": "Olteonjay",
       "catchChance": ".1774",
@@ -1252,7 +1113,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 136,
     "fields": {
       "name": "Areonflay",
       "catchChance": ".1735",
@@ -1261,7 +1121,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 137,
     "fields": {
       "name": "Orygonpay",
       "catchChance": ".1696",
@@ -1270,7 +1129,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 138,
     "fields": {
       "name": "Omanyteway",
       "catchChance": ".1657",
@@ -1279,7 +1137,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 139,
     "fields": {
       "name": "Omastarway",
       "catchChance": ".1618",
@@ -1288,7 +1145,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 140,
     "fields": {
       "name": "Abutokay",
       "catchChance": ".1579",
@@ -1297,7 +1153,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 141,
     "fields": {
       "name": "Abutopskay",
       "catchChance": ".154",
@@ -1306,7 +1161,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 142,
     "fields": {
       "name": "Aerodactylway",
       "catchChance": ".1501",
@@ -1315,7 +1169,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 143,
     "fields": {
       "name": "Orlaxsnay",
       "catchChance": ".1462",
@@ -1324,7 +1177,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 144,
     "fields": {
       "name": "Articunoway",
       "catchChance": ".1423",
@@ -1333,7 +1185,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 145,
     "fields": {
       "name": "Apdoszay",
       "catchChance": ".1384",
@@ -1342,7 +1193,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 146,
     "fields": {
       "name": "Oltresmay",
       "catchChance": ".1345",
@@ -1351,7 +1201,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 147,
     "fields": {
       "name": "Atinidray",
       "catchChance": ".1306",
@@ -1360,7 +1209,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 148,
     "fields": {
       "name": "Agonairdray",
       "catchChance": ".1267",
@@ -1369,7 +1217,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 149,
     "fields": {
       "name": "Agonitedray",
       "catchChance": ".1228",
@@ -1378,7 +1225,6 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 150,
     "fields": {
       "name": "Ewtwomay",
       "catchChance": ".1189",
@@ -1387,7 +1233,1238 @@
   },
   {
     "model": "mud.Pokemon",
-    "pk": 151,
+    "fields": {
+      "name": "Ewmay",
+      "catchChance": ".115",
+      "spawnChance": ".1032"
+    }
+  },
+  {
+    "model": "mud.Pokeballs",
+    "fields": {
+      "name": "Eatballgray",
+      "catchRate": ".0015",
+      "spawnChance": ".5"
+    }
+  },
+  {
+    "model": "mud.Pokeballs",
+    "fields": {
+      "name": "Traballulay",
+      "catchRate": ".002",
+      "spawnChance": ".35"
+    }
+  },
+  {
+    "model": "mud.Pokeballs",
+    "fields": {
+      "name": "Asterballmay",
+      "catchRate": ".255",
+      "spawnChance": ".1"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ulbasaurbay",
+      "catchChance": ".7",
+      "spawnChance": "1"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ivysaurway",
+      "catchChance": ".6961",
+      "spawnChance": ".9941"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Enusaurvay",
+      "catchChance": ".6922",
+      "spawnChance": ".9882"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Armanderchay",
+      "catchChance": ".6883",
+      "spawnChance": ".9823"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Armeleonchay",
+      "catchChance": ".6844",
+      "spawnChance": ".9764"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Arizardchay",
+      "catchChance": ".6805",
+      "spawnChance": ".9705"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Irtlesquay",
+      "catchChance": ".6766",
+      "spawnChance": ".9646"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Artortleway",
+      "catchChance": ".6727",
+      "spawnChance": ".9587"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Astoiseblay",
+      "catchChance": ".6688",
+      "spawnChance": ".9528"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aterpiecay",
+      "catchChance": ".6649",
+      "spawnChance": ".9469"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Etapodmay",
+      "catchChance": ".661",
+      "spawnChance": ".941"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Utterfreebay",
+      "catchChance": ".6571",
+      "spawnChance": ".9351"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eedleway",
+      "catchChance": ".6532",
+      "spawnChance": ".9292"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Akunakay",
+      "catchChance": ".6493",
+      "spawnChance": ".9233"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eedrillbay",
+      "catchChance": ".6454",
+      "spawnChance": ".9174"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idgeypay",
+      "catchChance": ".6415",
+      "spawnChance": ".9115"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idgeottopay",
+      "catchChance": ".6376",
+      "spawnChance": ".9056"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idgeotpay",
+      "catchChance": ".6337",
+      "spawnChance": ".8997"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Attataray",
+      "catchChance": ".6298",
+      "spawnChance": ".8938"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aticateray",
+      "catchChance": ".6259",
+      "spawnChance": ".8879"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Earowspay",
+      "catchChance": ".622",
+      "spawnChance": ".882"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Earowfay",
+      "catchChance": ".6181",
+      "spawnChance": ".8761"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ekansway",
+      "catchChance": ".6142",
+      "spawnChance": ".8702"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Arbokway",
+      "catchChance": ".6103",
+      "spawnChance": ".8643"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ikachupay",
+      "catchChance": ".6064",
+      "spawnChance": ".8584"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aichuray",
+      "catchChance": ".6025",
+      "spawnChance": ".8525"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Andshrewsay",
+      "catchChance": ".5986",
+      "spawnChance": ".8466"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Andslashsay",
+      "catchChance": ".5947",
+      "spawnChance": ".8407"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idorannaya",
+      "catchChance": ".5908",
+      "spawnChance": ".8348"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idorinanay",
+      "catchChance": ".5869",
+      "spawnChance": ".8289"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idoqueennay",
+      "catchChance": ".583",
+      "spawnChance": ".823"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idorannay",
+      "catchChance": ".5791",
+      "spawnChance": ".8171"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idorinonay",
+      "catchChance": ".5752",
+      "spawnChance": ".8112"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Idokingnay",
+      "catchChance": ".5713",
+      "spawnChance": ".8053"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Efairyclay",
+      "catchChance": ".5674",
+      "spawnChance": ".7994"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Efableclay",
+      "catchChance": ".5635",
+      "spawnChance": ".7935"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ulpixvay",
+      "catchChance": ".5596",
+      "spawnChance": ".7876"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Inetalesnay",
+      "catchChance": ".5557",
+      "spawnChance": ".7817"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Igglypuffjay",
+      "catchChance": ".5518",
+      "spawnChance": ".7758"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Igglytuffway",
+      "catchChance": ".5479",
+      "spawnChance": ".7699"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ubatzay",
+      "catchChance": ".544",
+      "spawnChance": ".764"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Olbatgay",
+      "catchChance": ".5401",
+      "spawnChance": ".7581"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oddishway",
+      "catchChance": ".5362",
+      "spawnChance": ".7522"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oomglay",
+      "catchChance": ".5323",
+      "spawnChance": ".7463"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ileplumevay",
+      "catchChance": ".5284",
+      "spawnChance": ".7404"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Araspay",
+      "catchChance": ".5245",
+      "spawnChance": ".7345"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Arasectpay",
+      "catchChance": ".5206",
+      "spawnChance": ".7286"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Enonatvay",
+      "catchChance": ".5167",
+      "spawnChance": ".7227"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Enomothvay",
+      "catchChance": ".5128",
+      "spawnChance": ".7168"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Iglettday",
+      "catchChance": ".5089",
+      "spawnChance": ".7109"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ugtrioday",
+      "catchChance": ".505",
+      "spawnChance": ".705"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eowthmay",
+      "catchChance": ".5011",
+      "spawnChance": ".6991"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ersianpay",
+      "catchChance": ".4972",
+      "spawnChance": ".6932"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Yduckpsay",
+      "catchChance": ".4933",
+      "spawnChance": ".6873"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Olduckgay",
+      "catchChance": ".4894",
+      "spawnChance": ".6814"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ankeymay",
+      "catchChance": ".4855",
+      "spawnChance": ".6755"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Imeapepray",
+      "catchChance": ".4816",
+      "spawnChance": ".6696"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Owlithegray",
+      "catchChance": ".4777",
+      "spawnChance": ".6637"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Arcanineway",
+      "catchChance": ".4738",
+      "spawnChance": ".6519"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oliwagpay",
+      "catchChance": ".4699",
+      "spawnChance": ".646"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oliwhirlpay",
+      "catchChance": ".466",
+      "spawnChance": ".6401"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oliwrathpay",
+      "catchChance": ".4621",
+      "spawnChance": ".6342"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Abraway",
+      "catchChance": ".4582",
+      "spawnChance": ".6283"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Adabrakay",
+      "catchChance": ".4543",
+      "spawnChance": ".6224"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Alakazamway",
+      "catchChance": ".4504",
+      "spawnChance": ".6165"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Achopmay",
+      "catchChance": ".4465",
+      "spawnChance": ".6106"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Achokemay",
+      "catchChance": ".4426",
+      "spawnChance": ".6047"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Achampmay",
+      "catchChance": ".4387",
+      "spawnChance": ".5988"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ellsproutbay",
+      "catchChance": ".4348",
+      "spawnChance": ".5929"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eepinbellway",
+      "catchChance": ".4309",
+      "spawnChance": ".587"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ictreebelvay",
+      "catchChance": ".427",
+      "spawnChance": ".5811"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Entacooltay",
+      "catchChance": ".4231",
+      "spawnChance": ".5752"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Entacrueltay",
+      "catchChance": ".4192",
+      "spawnChance": ".5693"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eodudegay",
+      "catchChance": ".4153",
+      "spawnChance": ".5634"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Avelergray",
+      "catchChance": ".4114",
+      "spawnChance": ".5575"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Olemgay",
+      "catchChance": ".4075",
+      "spawnChance": ".5516"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Onytapay",
+      "catchChance": ".4036",
+      "spawnChance": ".5457"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Apidashray",
+      "catchChance": ".3997",
+      "spawnChance": ".5398"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Owpokeslay",
+      "catchChance": ".3958",
+      "spawnChance": ".5339"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Owbroslay",
+      "catchChance": ".3919",
+      "spawnChance": ".528"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Agnemitemay",
+      "catchChance": ".388",
+      "spawnChance": ".5221"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Agnetonmay",
+      "catchChance": ".3841",
+      "spawnChance": ".5162"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Arfetch",
+      "catchChance": ".3802",
+      "spawnChance": ".5103"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oduoday",
+      "catchChance": ".3763",
+      "spawnChance": ".5044"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Odrioday",
+      "catchChance": ".3724",
+      "spawnChance": ".4985"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eelsay",
+      "catchChance": ".3685",
+      "spawnChance": ".4926"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ewgongday",
+      "catchChance": ".3646",
+      "spawnChance": ".4867"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Imergray",
+      "catchChance": ".3607",
+      "spawnChance": ".4808"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ukmay",
+      "catchChance": ".3568",
+      "spawnChance": ".4749"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Elldershay",
+      "catchChance": ".3529",
+      "spawnChance": ".469"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oysterclay",
+      "catchChance": ".349",
+      "spawnChance": ".4631"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Astlygay",
+      "catchChance": ".3451",
+      "spawnChance": ".4572"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aunterhay",
+      "catchChance": ".3412",
+      "spawnChance": ".4513"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Engargay",
+      "catchChance": ".3373",
+      "spawnChance": ".4454"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Onixway",
+      "catchChance": ".3334",
+      "spawnChance": ".4395"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Owzeedray",
+      "catchChance": ".3295",
+      "spawnChance": ".4336"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ypnohay",
+      "catchChance": ".3256",
+      "spawnChance": ".4277"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Abbykray",
+      "catchChance": ".3217",
+      "spawnChance": ".4218"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Inglerkay",
+      "catchChance": ".3178",
+      "spawnChance": ".4159"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oltorbvay",
+      "catchChance": ".3139",
+      "spawnChance": ".41"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Electrodeway",
+      "catchChance": ".31",
+      "spawnChance": ".4041"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Exeggcuteway",
+      "catchChance": ".3061",
+      "spawnChance": ".3982"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Exeggutorway",
+      "catchChance": ".3022",
+      "spawnChance": ".3864"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ubonecay",
+      "catchChance": ".2983",
+      "spawnChance": ".3805"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Arowakmay",
+      "catchChance": ".2944",
+      "spawnChance": ".3746"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Itmonleehay",
+      "catchChance": ".2905",
+      "spawnChance": ".3687"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Itmonchanhay",
+      "catchChance": ".2866",
+      "spawnChance": ".3628"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ickitunglay",
+      "catchChance": ".2827",
+      "spawnChance": ".3569"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Offingkay",
+      "catchChance": ".2788",
+      "spawnChance": ".351"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eezingway",
+      "catchChance": ".2749",
+      "spawnChance": ".3451"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Yhornrhay",
+      "catchChance": ".271",
+      "spawnChance": ".3392"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ydonrhay",
+      "catchChance": ".2671",
+      "spawnChance": ".3333"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Anseychay",
+      "catchChance": ".2632",
+      "spawnChance": ".3274"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Angelatay",
+      "catchChance": ".2593",
+      "spawnChance": ".3215"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Angaskhankay",
+      "catchChance": ".2554",
+      "spawnChance": ".3156"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Orseahay",
+      "catchChance": ".2515",
+      "spawnChance": ".3097"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eadrasay",
+      "catchChance": ".2476",
+      "spawnChance": ".3038"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oldeengay",
+      "catchChance": ".2437",
+      "spawnChance": ".2979"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eakingsay",
+      "catchChance": ".2398",
+      "spawnChance": ".292"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aryustay",
+      "catchChance": ".2359",
+      "spawnChance": ".2861"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Armiestay",
+      "catchChance": ".232",
+      "spawnChance": ".2802"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Imemay",
+      "catchChance": ".2281",
+      "spawnChance": ".2743"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ytherscay",
+      "catchChance": ".2242",
+      "spawnChance": ".2684"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ynxjay",
+      "catchChance": ".2203",
+      "spawnChance": ".2625"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Electabuzzway",
+      "catchChance": ".2164",
+      "spawnChance": ".2566"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Agmarmay",
+      "catchChance": ".2125",
+      "spawnChance": ".2507"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Insirpay",
+      "catchChance": ".2086",
+      "spawnChance": ".2448"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aurostay",
+      "catchChance": ".2047",
+      "spawnChance": ".2389"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Agikarpmay",
+      "catchChance": ".2008",
+      "spawnChance": ".233"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Yaradosgay",
+      "catchChance": ".1969",
+      "spawnChance": ".2271"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Apraslay",
+      "catchChance": ".193",
+      "spawnChance": ".2212"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ittoday",
+      "catchChance": ".1891",
+      "spawnChance": ".2153"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Eeveeway",
+      "catchChance": ".1852",
+      "spawnChance": ".2094"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aporeonvay",
+      "catchChance": ".1813",
+      "spawnChance": ".2035"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Olteonjay",
+      "catchChance": ".1774",
+      "spawnChance": ".1976"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Areonflay",
+      "catchChance": ".1735",
+      "spawnChance": ".1917"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Orygonpay",
+      "catchChance": ".1696",
+      "spawnChance": ".1858"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Omanyteway",
+      "catchChance": ".1657",
+      "spawnChance": ".1799"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Omastarway",
+      "catchChance": ".1618",
+      "spawnChance": ".174"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Abutokay",
+      "catchChance": ".1579",
+      "spawnChance": ".1681"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Abutopskay",
+      "catchChance": ".154",
+      "spawnChance": ".1622"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Aerodactylway",
+      "catchChance": ".1501",
+      "spawnChance": ".1563"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Orlaxsnay",
+      "catchChance": ".1462",
+      "spawnChance": ".1504"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Articunoway",
+      "catchChance": ".1423",
+      "spawnChance": ".1445"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Apdoszay",
+      "catchChance": ".1384",
+      "spawnChance": ".1386"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Oltresmay",
+      "catchChance": ".1345",
+      "spawnChance": ".1327"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Atinidray",
+      "catchChance": ".1306",
+      "spawnChance": ".1268"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Agonairdray",
+      "catchChance": ".1267",
+      "spawnChance": ".1209"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Agonitedray",
+      "catchChance": ".1228",
+      "spawnChance": ".115"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
+    "fields": {
+      "name": "Ewtwomay",
+      "catchChance": ".1189",
+      "spawnChance": ".1091"
+    }
+  },
+  {
+    "model": "mud.Pokemon",
     "fields": {
       "name": "Ewmay",
       "catchChance": ".115",
@@ -1396,7 +2473,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Back Yard",
       "pokeballs": "[]",
@@ -1407,7 +2483,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Kanto",
       "pokeballs": "[]",
@@ -1418,7 +2493,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Johto",
       "pokeballs": "[]",
@@ -1429,7 +2503,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Hoenn",
       "pokeballs": "[]",
@@ -1440,7 +2513,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Sinnoh",
       "pokeballs": "[]",
@@ -1451,7 +2523,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Unova",
       "pokeballs": "[]",
@@ -1462,7 +2533,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Kalos",
       "pokeballs": "[]",
@@ -1473,7 +2543,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Alola",
       "pokeballs": "[]",
@@ -1484,7 +2553,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Galar",
       "pokeballs": "[]",
@@ -1495,7 +2563,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Pewter City",
       "pokeballs": "[]",
@@ -1506,7 +2573,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Cerulean City",
       "pokeballs": "[]",
@@ -1517,7 +2583,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Vermilion City",
       "pokeballs": "[]",
@@ -1528,7 +2593,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Celadon City",
       "pokeballs": "[]",
@@ -1539,7 +2603,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Fuschia City",
       "pokeballs": "[]",
@@ -1550,7 +2613,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Saffron City",
       "pokeballs": "[]",
@@ -1561,7 +2623,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Cinnabar City",
       "pokeballs": "[]",
@@ -1572,7 +2633,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Viridian City",
       "pokeballs": "[]",
@@ -1583,7 +2643,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Violet City",
       "pokeballs": "[]",
@@ -1594,7 +2653,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Azalea City",
       "pokeballs": "[]",
@@ -1605,7 +2663,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Goldenrod City",
       "pokeballs": "[]",
@@ -1616,7 +2673,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Ecruteak City",
       "pokeballs": "[]",
@@ -1627,7 +2683,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Olivine City",
       "pokeballs": "[]",
@@ -1638,7 +2693,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Cianwood City",
       "pokeballs": "[]",
@@ -1649,7 +2703,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mahogany Town",
       "pokeballs": "[]",
@@ -1660,7 +2713,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Blackthorn City",
       "pokeballs": "[]",
@@ -1671,7 +2723,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Rustboro City",
       "pokeballs": "[]",
@@ -1682,7 +2733,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Dewford City",
       "pokeballs": "[]",
@@ -1693,7 +2743,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mauville City",
       "pokeballs": "[]",
@@ -1704,7 +2753,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Lavaridge City",
       "pokeballs": "[]",
@@ -1715,7 +2763,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Petalburg City",
       "pokeballs": "[]",
@@ -1726,7 +2773,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Fortree City",
       "pokeballs": "[]",
@@ -1737,7 +2783,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mossdeep City",
       "pokeballs": "[]",
@@ -1748,7 +2793,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Sootopolis City",
       "pokeballs": "[]",
@@ -1759,7 +2803,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Oreburgh City",
       "pokeballs": "[]",
@@ -1770,7 +2813,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Eterna City",
       "pokeballs": "[]",
@@ -1781,7 +2823,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Veilstone City",
       "pokeballs": "[]",
@@ -1792,7 +2833,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Pastoria City",
       "pokeballs": "[]",
@@ -1803,7 +2843,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Hearthome City",
       "pokeballs": "[]",
@@ -1814,7 +2853,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Canalave City",
       "pokeballs": "[]",
@@ -1825,7 +2863,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Snowpoint City",
       "pokeballs": "[]",
@@ -1836,7 +2873,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Sunyshore City",
       "pokeballs": "[]",
@@ -1847,7 +2883,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Striaton City",
       "pokeballs": "[]",
@@ -1858,7 +2893,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Aspertia City",
       "pokeballs": "[]",
@@ -1869,7 +2903,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Nacrene City",
       "pokeballs": "[]",
@@ -1880,7 +2913,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Virbank City",
       "pokeballs": "[]",
@@ -1891,7 +2923,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Castelia City",
       "pokeballs": "[]",
@@ -1902,7 +2933,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Nimbasa City",
       "pokeballs": "[]",
@@ -1913,7 +2943,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Driftveil City",
       "pokeballs": "[]",
@@ -1924,7 +2953,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mistralton City",
       "pokeballs": "[]",
@@ -1935,7 +2963,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Icirrus City",
       "pokeballs": "[]",
@@ -1946,7 +2973,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Opelucid City",
       "pokeballs": "[]",
@@ -1957,7 +2983,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Humilau City",
       "pokeballs": "[]",
@@ -1968,7 +2993,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Santalune City",
       "pokeballs": "[]",
@@ -1979,7 +3003,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Cyllage City",
       "pokeballs": "[]",
@@ -1990,7 +3013,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Shalour City",
       "pokeballs": "[]",
@@ -2001,7 +3023,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Coumarine City",
       "pokeballs": "[]",
@@ -2012,7 +3033,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Lumiose City",
       "pokeballs": "[]",
@@ -2023,7 +3043,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Laverre City",
       "pokeballs": "[]",
@@ -2034,7 +3053,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Anistar City",
       "pokeballs": "[]",
@@ -2045,7 +3063,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Snowbelle City",
       "pokeballs": "[]",
@@ -2056,7 +3073,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Viridian Forest",
       "pokeballs": "[]",
@@ -2067,7 +3083,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mt. Moon",
       "pokeballs": "[]",
@@ -2078,7 +3093,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Cerulean Cave",
       "pokeballs": "[]",
@@ -2089,7 +3103,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Rock Tunnel",
       "pokeballs": "[]",
@@ -2100,7 +3113,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Diglett's Cave",
       "pokeballs": "[]",
@@ -2111,7 +3123,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Safari Zone",
       "pokeballs": "[]",
@@ -2122,7 +3133,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Seafoam Islands",
       "pokeballs": "[]",
@@ -2133,7 +3143,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Power Plant",
       "pokeballs": "[]",
@@ -2144,7 +3153,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Victory Road",
       "pokeballs": "[]",
@@ -2155,7 +3163,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Indigo Plateau",
       "pokeballs": "[]",
@@ -2166,7 +3173,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Ruins of Alph",
       "pokeballs": "[]",
@@ -2177,7 +3183,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Slowpoke Well",
       "pokeballs": "[]",
@@ -2188,7 +3193,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Union Cave",
       "pokeballs": "[]",
@@ -2199,7 +3203,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Ilex Forest",
       "pokeballs": "[]",
@@ -2210,7 +3213,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Radio Tower",
       "pokeballs": "[]",
@@ -2221,7 +3223,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "National Park",
       "pokeballs": "[]",
@@ -2232,7 +3233,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Tin Tower",
       "pokeballs": "[]",
@@ -2243,7 +3243,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Bell Tower",
       "pokeballs": "[]",
@@ -2254,7 +3253,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Burned Tower",
       "pokeballs": "[]",
@@ -2265,7 +3263,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Sprout Tower",
       "pokeballs": "[]",
@@ -2276,7 +3273,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Whilr tower",
       "pokeballs": "[]",
@@ -2287,7 +3283,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Dark Cave",
       "pokeballs": "[]",
@@ -2298,7 +3293,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mt.Mortar",
       "pokeballs": "[]",
@@ -2309,7 +3303,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Lake of Rage",
       "pokeballs": "[]",
@@ -2320,7 +3313,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Dragon's Den",
       "pokeballs": "[]",
@@ -2331,7 +3323,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Tohjo Falls",
       "pokeballs": "[]",
@@ -2342,7 +3333,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Indigo Plateau",
       "pokeballs": "[]",
@@ -2353,7 +3343,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Battle Frontier",
       "pokeballs": "[]",
@@ -2364,7 +3353,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mt. Silver",
       "pokeballs": "[]",
@@ -2375,7 +3363,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Sinjoh Ruins",
       "pokeballs": "[]",
@@ -2386,7 +3373,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Petalburg Woods",
       "pokeballs": "[]",
@@ -2397,7 +3383,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Devon Corporation",
       "pokeballs": "[]",
@@ -2408,7 +3393,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Rusturf Tunnel",
       "pokeballs": "[]",
@@ -2419,7 +3403,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Granite Cave",
       "pokeballs": "[]",
@@ -2430,7 +3413,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Meteor Falls",
       "pokeballs": "[]",
@@ -2441,7 +3423,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Mt. Pyre",
       "pokeballs": "[]",
@@ -2452,7 +3433,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Cave of Origin",
       "pokeballs": "[]",
@@ -2463,7 +3443,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Hoenn Victory Road",
       "pokeballs": "[]",
@@ -2474,7 +3453,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Sky Pillar",
       "pokeballs": "[]",
@@ -2485,7 +3463,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Battle Tower",
       "pokeballs": "[]",
@@ -2496,7 +3473,6 @@
   },
   {
     "model": "mud.Areas",
-    "pk": 1,
     "fields": {
       "name": "Southern Island",
       "pokeballs": "[]",
