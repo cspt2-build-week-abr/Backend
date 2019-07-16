@@ -8,7 +8,8 @@ class Areas(models.Model):
     description = models.CharField(max_length=64, blank=True, null=True)
     pokeballs = models.CharField(max_length=128, blank=True, null=True)
     pokemon = models.CharField(max_length=128, blank=True, null=True)
-    adjacents = models.CharField(max_length=4, blank=True, null=True)
+    exits = models.CharField(max_length=4, blank=True, null=True)
+    coords = models.TextField(blank=True, null=True)
     players = models.TextField(blank=True, null=True)
 
 class Users(models.Model):
