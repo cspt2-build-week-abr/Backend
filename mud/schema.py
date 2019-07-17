@@ -11,15 +11,15 @@ class PokemonType(DjangoObjectType):
 
 class Query(graphene.ObjectType):
 
-    all_pokemon = graphene.List(PokemonType)
-    pokemon = graphene.Field(pokemonType, id=graphene.Int())
+    allPokemon = graphene.List(PokemonType)
+    pokemon = graphene.Field(PokemonType, pokemonId=graphene.String())
 
-    def resolve_all_pokemon(self, info):
+    def resolve_allPokemon(self, info):
         return Pokemon.objects.all()
     
     def resolve_pokemon(self, info, **kwargs):
-        id = kwargs.get('id')
-        return Pokemon.objects.get(pk=id)
+        pokemonId = kwargs.get('pokemonId')
+        return Pokemon.objects.get(pk=pokemonId)
 
 
 schema = graphene.Schema(query=Query)
