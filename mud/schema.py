@@ -58,6 +58,32 @@ class UpdateUser(graphene.Mutation):
 
         return UpdateUser(user=user)
 
+class UpdateArea(graphene.Mutation):
+    area = graphene.Field(AreaType)
+
+    class Arguments:
+        areaId = graphene.String(required=True)
+        name = graphene.String(required=True)
+        description = graphene.String(required=True)
+        pokeballs = graphene.String(required=True)
+        pokemon = graphene.String(required=True)
+        coords = graphene.String(required=True)
+        exits = graphene.String(required=True)
+        players = graphene.String(required=True)
+
+    def mutate(self, info, areaId, name, description, pokeballs, pokemon, coords, exits, players):
+        area = Areas.objects.get(areaId=areaId)
+        area.name = name
+        area.description = description
+        area.pokeballs = pokeballs
+        area.pokemon = pokemon
+        area.coords = coords
+        area.exits = exits
+        area.players = players
+        area.save()
+
+        return UpdateArea(area=area)
+
 class Login(graphene.Mutation):
     user = graphene.Field(UserType)
 
@@ -76,6 +102,7 @@ class Mutation(graphene.ObjectType,):
     create_user = CreateUser.Field()
     update_user = UpdateUser.Field()
     login = Login.Field()
+    update_area = UpdateArea.Field()
 
 
 class Query(graphene.ObjectType):
