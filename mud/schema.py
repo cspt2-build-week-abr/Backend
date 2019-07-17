@@ -2,8 +2,6 @@ from django.conf import settings
 from graphene_django import DjangoObjectType
 import graphene
 from .models import Pokemon, Users
-from django.contrib.auth import get_user_model
-import graphql_jwt
 
 class UserType(DjangoObjectType):
     class Meta:
@@ -16,10 +14,12 @@ class CreateUser(graphene.Mutation):
     class Arguments:
         username = graphene.String(required=True)
         items = graphene.String(required=True)
+        password = graphene.String(required=True)
 
-    def mutate(self, info, username, items):
+    def mutate(self, info, username, password, items):
         user = Users(
             username=username,
+            password=password,
             items=items,
             area_id=0
         )
@@ -27,9 +27,6 @@ class CreateUser(graphene.Mutation):
 
 class Mutation(graphene.ObjectType,):
     create_user = CreateUser.Field()
-    token_auth = graphql_jwt.ObtainJSONWebToken.Field()
-    verify_token = graphql_jwt.Verify.Field()
-    refresh_token = graphql_jwt.Refresh.Field()
 
 class PokemonType(DjangoObjectType):
 
