@@ -35,10 +35,32 @@ class CreateUser(graphene.Mutation):
             items=items,
             area_id=0
         )
+        user.save()
         return CreateUser(user=user)
+
+class UpdateUser(graphene.Mutation):
+    user = graphene.Field(UserType)
+
+    class Arguments:
+        userId = graphene.String(required=True)
+        username = graphene.String(required=True)
+        items = graphene.String(required=True)
+        password = graphene.String(required=True)
+        area_id = graphene.String(required=True)
+
+    def mutate(self, info, userId, username, items, password, area_id):
+        user = Users.objects.get(userId=userId)
+        user.username = username
+        user.items = items
+        user.password = password
+        user.area_id = area_id
+        user.save()
+
+        return UpdateUser(user=user)
 
 class Mutation(graphene.ObjectType,):
     create_user = CreateUser.Field()
+    update_user = UpdateUser.Field()
 
 
 
@@ -49,6 +71,7 @@ class Query(graphene.ObjectType):
     users = graphene.List(UserType)
     allAreas = graphene.List(AreaType)
     area = graphene.Field(AreaType, areaId=graphene.String())
+    user = graphene.Field(UserType, userId=graphene.String())
 
     def resolve_allPokemon(self, info):
         return Pokemon.objects.all()
@@ -66,5 +89,9 @@ class Query(graphene.ObjectType):
     def resolve_area(self, info, **kwargs):
         areaId = kwargs.get('areaId')
         return Areas.objects.get(areaId=areaId)
+
+    def resolve_user(self, info, **kwargs):
+        userId = kwargs.get('userId')
+        return Users.objects.get(userId=userId)
 
 schema = graphene.Schema(query=Query, mutation=Mutation)
