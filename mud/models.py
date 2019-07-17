@@ -15,7 +15,7 @@ class Areas(models.Model):
 class Users(models.Model):
     userId = models.UUIDField(primary_key=True, default=uuid4, editable=False)
     username = models.CharField(max_length=50, unique=True, blank=True, null=True)
-    token = models.CharField(max_length=248, unique=True, blank=True, null=True)
+    password = models.CharField(max_length=248, unique=True, blank=True, null=True)
     items = models.CharField(max_length=64, blank=True, null=True)
     area_id = models.IntegerField()
 
