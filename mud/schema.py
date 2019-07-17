@@ -1,7 +1,7 @@
 from django.conf import settings
 from graphene_django import DjangoObjectType
 import graphene
-from .models import Pokemon, Users, Areas
+from .models import Pokemon, Users, Areas, Pokeballs
 
 class UserType(DjangoObjectType):
     class Meta:
@@ -12,6 +12,12 @@ class PokemonType(DjangoObjectType):
 
     class Meta:
         model = Pokemon
+        interfaces = (graphene.relay.Node,)
+
+class PokeballType(DjangoObjectType):
+
+    class Meta:
+        model = Pokeballs
         interfaces = (graphene.relay.Node,)
 
 class AreaType(DjangoObjectType):
@@ -113,6 +119,8 @@ class Query(graphene.ObjectType):
     allAreas = graphene.List(AreaType)
     area = graphene.Field(AreaType, areaId=graphene.String())
     user = graphene.Field(UserType, userId=graphene.String())
+    allPokeballs = graphene.List(PokeballType)
+    pokeball = graphene.Field(PokeballType, pokeballId=graphene.String())
 
     def resolve_allPokemon(self, info):
         return Pokemon.objects.all()
@@ -134,5 +142,12 @@ class Query(graphene.ObjectType):
     def resolve_user(self, info, **kwargs):
         userId = kwargs.get('userId')
         return Users.objects.get(userId=userId)
+
+    def resolve_allPokeballs(self, info):
+        return Pokeballs.objects.all()
+
+    def resolve_pokeball(self, info, **kwargs):
+        pokeballId = kwargs.get('pokeballId')
+        return Pokeballs.objects.get(pokeballId=pokeballId)
 
 schema = graphene.Schema(query=Query, mutation=Mutation)
