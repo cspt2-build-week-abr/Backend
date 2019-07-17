@@ -69,11 +69,6 @@ TEMPLATES = [
     },
 ]
 
-AUTHENTICATION_BACKENDS = [
-    'graphql_jwt.backends.JSONWebTokenBackend',
-    'django.contrib.auth.backends.ModelBackend',
-]
-
 WSGI_APPLICATION = 'project.wsgi.application'
 
 
@@ -128,7 +123,4 @@ STATIC_URL = '/static/'
 
 GRAPHENE = {
     'SCHEMA': 'mud.schema.schema',
-    'MIDDLEWARE': [
-        'graphql_jwt.middleware.JSONWebTokenMiddleware',
-    ],
 }

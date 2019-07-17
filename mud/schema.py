@@ -65,15 +65,6 @@ class Query(graphene.ObjectType):
 
     def resolve_area(self, info, **kwargs):
         areaId = kwargs.get('areaId')
-        print(areaId)
-        print(kwargs)
         return Areas.objects.get(areaId=areaId)
-
-    def resolve_all_areas(self, info):
-        return Areas.objects.all()
-
-    def resolve_area(self, info, **kwargs):
-        id = kwargs.get('id')
-        return Areas.objects.get(pk=id)
 
 schema = graphene.Schema(query=Query, mutation=Mutation)
