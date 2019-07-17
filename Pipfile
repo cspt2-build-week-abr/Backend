@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 django = "*"
 graphene-django = "*"
+gunicorn = "*"
+dj-database-url = "*"
+whitenoise = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.7"
