@@ -58,10 +58,24 @@ class UpdateUser(graphene.Mutation):
 
         return UpdateUser(user=user)
 
+class Login(graphene.Mutation):
+    user = graphene.Field(UserType)
+
+    class Arguments:
+        username = graphene.String(required=True)
+        password = graphene.String(required=True)
+
+    def  mutate(self, info, username, password):
+        user = Users.objects.get(username=username)
+        if user.username == username and user.password == password:
+            return Login(user=user)
+        else:
+            raise Exception("Incorrect username and/or password")
+
 class Mutation(graphene.ObjectType,):
     create_user = CreateUser.Field()
     update_user = UpdateUser.Field()
-
+    login = Login.Field()
 
 
 class Query(graphene.ObjectType):
