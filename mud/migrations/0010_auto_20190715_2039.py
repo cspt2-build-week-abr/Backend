@@ -13,21 +13,21 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='areas',
             name='id',
-            field=models.AutoField(primary_key=True, serialize=False),
+            field=models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False),
         ),
         migrations.AlterField(
             model_name='pokeballs',
             name='id',
-            field=models.AutoField(primary_key=True, serialize=False),
+            field=models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False),
         ),
         migrations.AlterField(
             model_name='pokemon',
             name='id',
-            field=models.AutoField(primary_key=True, serialize=False),
+            field=models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False),
         ),
         migrations.AlterField(
             model_name='users',
             name='id',
-            field=models.AutoField(primary_key=True, serialize=False),
+            field=models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False),
         ),
     ]
