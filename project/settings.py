@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['mud-pokemon.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'corsheaders'
+    'corsheaders',
     'mud',
     'graphene_django',
     'django.contrib.admin',
