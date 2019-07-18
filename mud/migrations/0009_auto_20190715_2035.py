@@ -13,6 +13,6 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='pokemon',
             name='id',
-            field=models.IntegerField(primary_key=True, serialize=False),
+            field=models.UUIDField(primary_key=True, default=uuid4, editable=False),
         ),
     ]
