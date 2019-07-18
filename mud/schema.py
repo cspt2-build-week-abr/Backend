@@ -1,7 +1,7 @@
 from django.conf import settings
 from graphene_django import DjangoObjectType
 import graphene
-from .models import Pokemon
+from .models import Pokemon, Area, Users, Pokeballs 
 
 class PokemonType(DjangoObjectType):
 
@@ -23,3 +23,4 @@ class Query(graphene.ObjectType):
 
 
 schema = graphene.Schema(query=Query)
+
