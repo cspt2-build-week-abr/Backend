@@ -25,7 +25,7 @@ SECRET_KEY = 'yl3k7@b7@-a6i(%nq^-970&*(0%=%)g%$+_j@xmzpzq=g6_wzy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://mud-pokemon.herokuapp.com/']
+ALLOWED_HOSTS = ['mud-pokemon.herokuapp.com/']
 
 
 # Application definition
