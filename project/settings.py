@@ -25,7 +25,7 @@ SECRET_KEY = 'yl3k7@b7@-a6i(%nq^-970&*(0%=%)g%$+_j@xmzpzq=g6_wzy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mud-pokemon.herokuapp.com']
+ALLOWED_HOSTS = ['mud-pokemon.herokuapp.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -60,7 +60,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
 )
-
+CSRF_COOKIE_SECURE = False
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
