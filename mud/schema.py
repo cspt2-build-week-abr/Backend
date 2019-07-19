@@ -31,7 +31,6 @@ class CreateUser(graphene.Mutation):
 
     class Arguments:
         username = graphene.String(required=True)
-        items = graphene.String(required=True)
         password = graphene.String(required=True)
 
     def mutate(self, info, username, password):
