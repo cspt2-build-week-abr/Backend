@@ -17,7 +17,7 @@ class Users(models.Model):
     username = models.CharField(max_length=50, unique=True, blank=True, null=True)
     password = models.CharField(max_length=248, unique=True, blank=True, null=True)
     items = models.CharField(max_length=64, blank=True, null=True)
-    area_id = models.IntegerField()
+    area_id = models.CharField(max_length=128, blank=True, null=True)
 
 class Pokemon(models.Model):
     pokemonId = models.UUIDField(primary_key=True, default=uuid4, editable=False)
