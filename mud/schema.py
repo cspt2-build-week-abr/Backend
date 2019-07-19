@@ -34,12 +34,12 @@ class CreateUser(graphene.Mutation):
         items = graphene.String(required=True)
         password = graphene.String(required=True)
 
-    def mutate(self, info, username, password, items):
+    def mutate(self, info, username, password):
         user = Users(
             username=username,
             password=password,
-            items=items,
-            area_id=0
+            items="[]",
+            area_id="c4c4b24b-bd7c-47b4-acc1-af90a4ebe63b"
         )
         user.save()
         return CreateUser(user=user)
