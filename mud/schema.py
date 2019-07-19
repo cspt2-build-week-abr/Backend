@@ -1,12 +1,16 @@
 from django.conf import settings
 from graphene_django import DjangoObjectType
 import graphene
+<<<<<<< HEAD
+from .models import Pokemon, Area, Users, Pokeballs 
+=======
 from .models import Pokemon, Users, Areas, Pokeballs
 
 class UserType(DjangoObjectType):
     class Meta:
         model = Users
         interfaces = (graphene.relay.Node,)
+>>>>>>> 16e22a1afd427b1eac232ebf557688b05d02431c
 
 class PokemonType(DjangoObjectType):
 
@@ -149,4 +153,9 @@ class Query(graphene.ObjectType):
         pokeballId = kwargs.get('pokeballId')
         return Pokeballs.objects.get(pokeballId=pokeballId)
 
+<<<<<<< HEAD
+schema = graphene.Schema(query=Query)
+
+=======
 schema = graphene.Schema(query=Query, mutation=Mutation)
+>>>>>>> 16e22a1afd427b1eac232ebf557688b05d02431c
