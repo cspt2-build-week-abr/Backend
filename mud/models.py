@@ -6,8 +6,8 @@ class Areas(models.Model):
     areaId = models.UUIDField(primary_key=True, default=uuid4, editable=False)
     name = models.CharField(max_length=50, blank=True, null=True)
     description = models.CharField(max_length=64, blank=True, null=True)
-    pokeballs = models.CharField(max_length=128, blank=True, null=True)
-    pokemon = models.CharField(max_length=128, blank=True, null=True)
+    pokeballs = models.CharField(max_length=99999, blank=True, null=True)
+    pokemon = models.CharField(max_length=99999, blank=True, null=True)
     coords = models.TextField(blank=True, null=True)
     exits = models.TextField(blank=True, null=True)
     players = models.TextField(blank=True, null=True)
@@ -19,6 +19,7 @@ class Users(models.Model):
     items = models.CharField(max_length=64, blank=True, null=True)
     area_id = models.CharField(max_length=128, blank=True, null=True)
     pokemon = models.CharField(max_length=99999, blank=True, null=True)
+    pokeballs = models.CharField(max_length=99999, blank=True, null=True)
 
 class Pokemon(models.Model):
     pokemonId = models.UUIDField(primary_key=True, default=uuid4, editable=False)
