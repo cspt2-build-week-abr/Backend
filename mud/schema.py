@@ -40,6 +40,7 @@ class CreateUser(graphene.Mutation):
             items="[]",
             area_id="33128248-abce-4600-83c6-cec5094ee697",
             pokemon="[]",
+            pokeballs="[]"
         )
         user.save()
         return CreateUser(user=user)
@@ -54,14 +55,16 @@ class UpdateUser(graphene.Mutation):
         password = graphene.String(required=True)
         area_id = graphene.String(required=True)
         pokemon = graphene.String(required=True)
+        pokeballs = graphene.String(required=True)
 
-    def mutate(self, info, userId, username, items, password, area_id, pokemon):
+    def mutate(self, info, userId, username, items, password, area_id, pokemon, pokeballs):
         user = Users.objects.get(userId=userId)
         user.username = username
         user.items = items
         user.password = password
         user.area_id = area_id
         user.pokemon = pokemon
+        user.pokeballs = pokeballs
         user.save()
 
         return UpdateUser(user=user)
