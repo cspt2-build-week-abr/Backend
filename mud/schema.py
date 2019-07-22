@@ -38,7 +38,7 @@ class CreateUser(graphene.Mutation):
             username=username,
             password=password,
             items="[]",
-            area_id="bde1f21a-4b9f-4993-a7d4-12485402176f",
+            area_id="88dd41dc-9e6e-445c-98eb-777670d74bcd",
             pokemon="[]",
         )
         user.save()
